@@ -1,6 +1,6 @@
 #! /bin/bash/
 
-echo "# 3D-Login-Page" >> README.md
+echo "#3D-Login-Page" >> README.md
 
 echo " /new-repo.sh /update.sh" >>.gitignore
 
